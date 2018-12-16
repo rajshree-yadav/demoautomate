@@ -10,7 +10,7 @@ import demoaut.demoaut_qa_automation.pages.HomePage;
 import demoaut.demoaut_qa_automation.pages.RegistrationConfirmationPage;
 import demoaut.demoaut_qa_automation.pages.RegistrationPage;
 
-public class RegistrationPageTest extends JUnitTestBase {
+public class RegisterPafeTest extends JUnitTestBase {
 
 	private HomePage homePage;
 	private RegistrationPage registrationPage;
